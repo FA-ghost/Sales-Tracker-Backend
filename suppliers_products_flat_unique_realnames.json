@@ -1,0 +1,884 @@
+[
+  {
+    "Supplier": "DirectGoods",
+    "Product ID": 2,
+    "Product Name": "Ivory Ball",
+    "Category": "Health",
+    "Reorder Point": 17,
+    "Stock Amount": 22,
+    "Cost": 474.45
+  },
+  {
+    "Supplier": "DirectGoods",
+    "Product ID": 3,
+    "Product Name": "Sapphire Shirt",
+    "Category": "Automotive",
+    "Reorder Point": 20,
+    "Stock Amount": 94,
+    "Cost": 221.62
+  },
+  {
+    "Supplier": "DirectGoods",
+    "Product ID": 14,
+    "Product Name": "Golden Camera",
+    "Category": "Health",
+    "Reorder Point": 11,
+    "Stock Amount": 144,
+    "Cost": 480.22
+  },
+  {
+    "Supplier": "DirectGoods",
+    "Product ID": 16,
+    "Product Name": "Shadow Tablet",
+    "Category": "Kitchen",
+    "Reorder Point": 18,
+    "Stock Amount": 90,
+    "Cost": 345.84
+  },
+  {
+    "Supplier": "DirectGoods",
+    "Product ID": 17,
+    "Product Name": "Terra Bottle",
+    "Category": "Health",
+    "Reorder Point": 23,
+    "Stock Amount": 14,
+    "Cost": 233.34
+  },
+  {
+    "Supplier": "DirectGoods",
+    "Product ID": 20,
+    "Product Name": "Cobalt Sneakers",
+    "Category": "Health",
+    "Reorder Point": 21,
+    "Stock Amount": 101,
+    "Cost": 428.0
+  },
+  {
+    "Supplier": "DirectGoods",
+    "Product ID": 24,
+    "Product Name": "Sapphire Lamp",
+    "Category": "Toys",
+    "Reorder Point": 27,
+    "Stock Amount": 169,
+    "Cost": 140.26
+  },
+  {
+    "Supplier": "DirectGoods",
+    "Product ID": 26,
+    "Product Name": "Azure Watch",
+    "Category": "Health",
+    "Reorder Point": 9,
+    "Stock Amount": 146,
+    "Cost": 489.01
+  },
+  {
+    "Supplier": "DirectGoods",
+    "Product ID": 35,
+    "Product Name": "Shadow Lamp",
+    "Category": "Groceries",
+    "Reorder Point": 25,
+    "Stock Amount": 97,
+    "Cost": 454.19
+  },
+  {
+    "Supplier": "DirectGoods",
+    "Product ID": 41,
+    "Product Name": "Lunar Speaker",
+    "Category": "Beauty",
+    "Reorder Point": 14,
+    "Stock Amount": 48,
+    "Cost": 298.04
+  },
+  {
+    "Supplier": "DirectGoods",
+    "Product ID": 49,
+    "Product Name": "Crystal Notebook",
+    "Category": "Automotive",
+    "Reorder Point": 27,
+    "Stock Amount": 65,
+    "Cost": 406.9
+  },
+  {
+    "Supplier": "DirectGoods",
+    "Product ID": 50,
+    "Product Name": "Echo Ball",
+    "Category": "Groceries",
+    "Reorder Point": 11,
+    "Stock Amount": 53,
+    "Cost": 138.13
+  },
+  {
+    "Supplier": "DirectGoods",
+    "Product ID": 58,
+    "Product Name": "Golden Ball",
+    "Category": "Groceries",
+    "Reorder Point": 15,
+    "Stock Amount": 25,
+    "Cost": 84.51
+  },
+  {
+    "Supplier": "DirectGoods",
+    "Product ID": 65,
+    "Product Name": "Blaze Glasses",
+    "Category": "Stationery",
+    "Reorder Point": 14,
+    "Stock Amount": 20,
+    "Cost": 340.23
+  },
+  {
+    "Supplier": "DirectGoods",
+    "Product ID": 2,
+    "Product Name": "Cobalt Laptop",
+    "Category": "Health",
+    "Reorder Point": 17,
+    "Stock Amount": 22,
+    "Cost": 474.45
+  },
+  {
+    "Supplier": "DirectGoods",
+    "Product ID": 3,
+    "Product Name": "Velvet Drone",
+    "Category": "Automotive",
+    "Reorder Point": 20,
+    "Stock Amount": 94,
+    "Cost": 221.62
+  },
+  {
+    "Supplier": "Global Parts",
+    "Product ID": 6,
+    "Product Name": "Terra Table",
+    "Category": "Books",
+    "Reorder Point": 22,
+    "Stock Amount": 41,
+    "Cost": 199.02
+  },
+  {
+    "Supplier": "Global Parts",
+    "Product ID": 9,
+    "Product Name": "Royal Phone",
+    "Category": "Toys",
+    "Reorder Point": 20,
+    "Stock Amount": 144,
+    "Cost": 277.07
+  },
+  {
+    "Supplier": "Global Parts",
+    "Product ID": 10,
+    "Product Name": "Arctic Ball",
+    "Category": "Clothing",
+    "Reorder Point": 13,
+    "Stock Amount": 77,
+    "Cost": 76.15
+  },
+  {
+    "Supplier": "Global Parts",
+    "Product ID": 12,
+    "Product Name": "Crimson Cream",
+    "Category": "Automotive",
+    "Reorder Point": 18,
+    "Stock Amount": 123,
+    "Cost": 47.71
+  },
+  {
+    "Supplier": "Global Parts",
+    "Product ID": 13,
+    "Product Name": "Mystic Shirt",
+    "Category": "Stationery",
+    "Reorder Point": 15,
+    "Stock Amount": 121,
+    "Cost": 53.24
+  },
+  {
+    "Supplier": "Global Parts",
+    "Product ID": 15,
+    "Product Name": "Mystic Headset",
+    "Category": "Toys",
+    "Reorder Point": 27,
+    "Stock Amount": 189,
+    "Cost": 26.95
+  },
+  {
+    "Supplier": "Global Parts",
+    "Product ID": 22,
+    "Product Name": "Mystic Sneakers",
+    "Category": "Stationery",
+    "Reorder Point": 27,
+    "Stock Amount": 170,
+    "Cost": 382.05
+  },
+  {
+    "Supplier": "Global Parts",
+    "Product ID": 28,
+    "Product Name": "Golden Speaker",
+    "Category": "Sports",
+    "Reorder Point": 21,
+    "Stock Amount": 4,
+    "Cost": 470.79
+  },
+  {
+    "Supplier": "Global Parts",
+    "Product ID": 29,
+    "Product Name": "Cobalt Speaker",
+    "Category": "Beauty",
+    "Reorder Point": 23,
+    "Stock Amount": 15,
+    "Cost": 455.74
+  },
+  {
+    "Supplier": "Global Parts",
+    "Product ID": 31,
+    "Product Name": "Lunar Chair",
+    "Category": "Electronics",
+    "Reorder Point": 28,
+    "Stock Amount": 193,
+    "Cost": 322.52
+  },
+  {
+    "Supplier": "Global Parts",
+    "Product ID": 34,
+    "Product Name": "Ruby Mixer",
+    "Category": "Books",
+    "Reorder Point": 5,
+    "Stock Amount": 105,
+    "Cost": 372.3
+  },
+  {
+    "Supplier": "Global Parts",
+    "Product ID": 38,
+    "Product Name": "Azure Console",
+    "Category": "Beauty",
+    "Reorder Point": 14,
+    "Stock Amount": 150,
+    "Cost": 307.91
+  },
+  {
+    "Supplier": "Global Parts",
+    "Product ID": 40,
+    "Product Name": "Velvet Glasses",
+    "Category": "Groceries",
+    "Reorder Point": 9,
+    "Stock Amount": 29,
+    "Cost": 439.96
+  },
+  {
+    "Supplier": "Global Parts",
+    "Product ID": 43,
+    "Product Name": "Crystal Soap",
+    "Category": "Toys",
+    "Reorder Point": 16,
+    "Stock Amount": 88,
+    "Cost": 56.25
+  },
+  {
+    "Supplier": "Global Parts",
+    "Product ID": 45,
+    "Product Name": "Zenith Speaker",
+    "Category": "Furniture",
+    "Reorder Point": 12,
+    "Stock Amount": 90,
+    "Cost": 136.64
+  },
+  {
+    "Supplier": "Global Parts",
+    "Product ID": 46,
+    "Product Name": "Arctic Speaker",
+    "Category": "Toys",
+    "Reorder Point": 28,
+    "Stock Amount": 36,
+    "Cost": 90.6
+  },
+  {
+    "Supplier": "Global Parts",
+    "Product ID": 47,
+    "Product Name": "Ivory Bag",
+    "Category": "Automotive",
+    "Reorder Point": 26,
+    "Stock Amount": 77,
+    "Cost": 407.03
+  },
+  {
+    "Supplier": "Global Parts",
+    "Product ID": 51,
+    "Product Name": "Titan Headset",
+    "Category": "Automotive",
+    "Reorder Point": 7,
+    "Stock Amount": 73,
+    "Cost": 447.08
+  },
+  {
+    "Supplier": "Global Parts",
+    "Product ID": 53,
+    "Product Name": "Golden Headset",
+    "Category": "Health",
+    "Reorder Point": 21,
+    "Stock Amount": 111,
+    "Cost": 437.81
+  },
+  {
+    "Supplier": "Global Parts",
+    "Product ID": 55,
+    "Product Name": "Ivory Speaker",
+    "Category": "Toys",
+    "Reorder Point": 16,
+    "Stock Amount": 101,
+    "Cost": 268.85
+  },
+  {
+    "Supplier": "Global Parts",
+    "Product ID": 57,
+    "Product Name": "Azure Camera",
+    "Category": "Furniture",
+    "Reorder Point": 29,
+    "Stock Amount": 62,
+    "Cost": 473.58
+  },
+  {
+    "Supplier": "Global Parts",
+    "Product ID": 62,
+    "Product Name": "Zenith Bike",
+    "Category": "Automotive",
+    "Reorder Point": 18,
+    "Stock Amount": 61,
+    "Cost": 320.01
+  },
+  {
+    "Supplier": "Global Parts",
+    "Product ID": 66,
+    "Product Name": "Blaze Headset",
+    "Category": "Toys",
+    "Reorder Point": 5,
+    "Stock Amount": 175,
+    "Cost": 190.43
+  },
+  {
+    "Supplier": "Global Parts",
+    "Product ID": 68,
+    "Product Name": "Arctic Camera",
+    "Category": "Beauty",
+    "Reorder Point": 7,
+    "Stock Amount": 40,
+    "Cost": 125.19
+  },
+  {
+    "Supplier": "Global Parts",
+    "Product ID": 72,
+    "Product Name": "Aqua Sneakers",
+    "Category": "Kitchen",
+    "Reorder Point": 15,
+    "Stock Amount": 71,
+    "Cost": 409.12
+  },
+  {
+    "Supplier": "Global Parts",
+    "Product ID": 73,
+    "Product Name": "Ivory Shirt",
+    "Category": "Electronics",
+    "Reorder Point": 20,
+    "Stock Amount": 28,
+    "Cost": 247.96
+  },
+  {
+    "Supplier": "Global Parts",
+    "Product ID": 75,
+    "Product Name": "Solar Cream",
+    "Category": "Groceries",
+    "Reorder Point": 7,
+    "Stock Amount": 137,
+    "Cost": 43.04
+  },
+  {
+    "Supplier": "SupplyCo",
+    "Product ID": 4,
+    "Product Name": "Azure Drone",
+    "Category": "Books",
+    "Reorder Point": 22,
+    "Stock Amount": 95,
+    "Cost": 123.67
+  },
+  {
+    "Supplier": "SupplyCo",
+    "Product ID": 5,
+    "Product Name": "Golden Drone",
+    "Category": "Beauty",
+    "Reorder Point": 11,
+    "Stock Amount": 39,
+    "Cost": 272.85
+  },
+  {
+    "Supplier": "SupplyCo",
+    "Product ID": 7,
+    "Product Name": "Sapphire Ball",
+    "Category": "Beauty",
+    "Reorder Point": 6,
+    "Stock Amount": 112,
+    "Cost": 106.38
+  },
+  {
+    "Supplier": "SupplyCo",
+    "Product ID": 11,
+    "Product Name": "Titan Soap",
+    "Category": "Kitchen",
+    "Reorder Point": 24,
+    "Stock Amount": 90,
+    "Cost": 145.47
+  },
+  {
+    "Supplier": "SupplyCo",
+    "Product ID": 19,
+    "Product Name": "Crystal Lamp",
+    "Category": "Beauty",
+    "Reorder Point": 26,
+    "Stock Amount": 107,
+    "Cost": 18.61
+  },
+  {
+    "Supplier": "SupplyCo",
+    "Product ID": 21,
+    "Product Name": "Lunar Glasses",
+    "Category": "Toys",
+    "Reorder Point": 8,
+    "Stock Amount": 14,
+    "Cost": 44.72
+  },
+  {
+    "Supplier": "SupplyCo",
+    "Product ID": 25,
+    "Product Name": "Blaze Shirt",
+    "Category": "Electronics",
+    "Reorder Point": 8,
+    "Stock Amount": 94,
+    "Cost": 54.67
+  },
+  {
+    "Supplier": "SupplyCo",
+    "Product ID": 27,
+    "Product Name": "Solar Sneakers",
+    "Category": "Toys",
+    "Reorder Point": 9,
+    "Stock Amount": 68,
+    "Cost": 410.83
+  },
+  {
+    "Supplier": "SupplyCo",
+    "Product ID": 30,
+    "Product Name": "Velvet Bottle",
+    "Category": "Furniture",
+    "Reorder Point": 24,
+    "Stock Amount": 97,
+    "Cost": 125.76
+  },
+  {
+    "Supplier": "SupplyCo",
+    "Product ID": 37,
+    "Product Name": "Terra Speaker",
+    "Category": "Clothing",
+    "Reorder Point": 20,
+    "Stock Amount": 69,
+    "Cost": 160.31
+  },
+  {
+    "Supplier": "SupplyCo",
+    "Product ID": 39,
+    "Product Name": "Shadow Drone",
+    "Category": "Sports",
+    "Reorder Point": 21,
+    "Stock Amount": 9,
+    "Cost": 40.26
+  },
+  {
+    "Supplier": "SupplyCo",
+    "Product ID": 42,
+    "Product Name": "Lunar Sneakers",
+    "Category": "Groceries",
+    "Reorder Point": 17,
+    "Stock Amount": 24,
+    "Cost": 105.03
+  },
+  {
+    "Supplier": "SupplyCo",
+    "Product ID": 48,
+    "Product Name": "Zenith Cream",
+    "Category": "Electronics",
+    "Reorder Point": 8,
+    "Stock Amount": 89,
+    "Cost": 173.03
+  },
+  {
+    "Supplier": "SupplyCo",
+    "Product ID": 52,
+    "Product Name": "Sapphire Laptop",
+    "Category": "Kitchen",
+    "Reorder Point": 20,
+    "Stock Amount": 124,
+    "Cost": 291.79
+  },
+  {
+    "Supplier": "SupplyCo",
+    "Product ID": 59,
+    "Product Name": "Titan Bag",
+    "Category": "Clothing",
+    "Reorder Point": 7,
+    "Stock Amount": 57,
+    "Cost": 69.5
+  },
+  {
+    "Supplier": "SupplyCo",
+    "Product ID": 60,
+    "Product Name": "Golden Mixer",
+    "Category": "Furniture",
+    "Reorder Point": 24,
+    "Stock Amount": 12,
+    "Cost": 184.37
+  },
+  {
+    "Supplier": "SupplyCo",
+    "Product ID": 67,
+    "Product Name": "Cobalt Bag",
+    "Category": "Kitchen",
+    "Reorder Point": 7,
+    "Stock Amount": 174,
+    "Cost": 487.0
+  },
+  {
+    "Supplier": "SupplyCo",
+    "Product ID": 70,
+    "Product Name": "Zenith Tablet",
+    "Category": "Furniture",
+    "Reorder Point": 20,
+    "Stock Amount": 194,
+    "Cost": 86.12
+  },
+  {
+    "Supplier": "SupplyCo",
+    "Product ID": 71,
+    "Product Name": "Blaze Watch",
+    "Category": "Groceries",
+    "Reorder Point": 6,
+    "Stock Amount": 164,
+    "Cost": 388.92
+  },
+  {
+    "Supplier": "SupplyCo",
+    "Product ID": 74,
+    "Product Name": "Azure Sneakers",
+    "Category": "Toys",
+    "Reorder Point": 19,
+    "Stock Amount": 130,
+    "Cost": 363.0
+  },
+  {
+    "Supplier": "SupplyCo",
+    "Product ID": 76,
+    "Product Name": "Royal Sneakers",
+    "Category": "Stationery",
+    "Reorder Point": 10,
+    "Stock Amount": 192,
+    "Cost": 165.81
+  },
+  {
+    "Supplier": "SupplyCo",
+    "Product ID": 79,
+    "Product Name": "Cobalt Table",
+    "Category": "Books",
+    "Reorder Point": 9,
+    "Stock Amount": 15,
+    "Cost": 8.51
+  },
+  {
+    "Supplier": "SupplyCo",
+    "Product ID": 80,
+    "Product Name": "Echo Console",
+    "Category": "Furniture",
+    "Reorder Point": 19,
+    "Stock Amount": 30,
+    "Cost": 52.83
+  },
+  {
+    "Supplier": "Ware Plus",
+    "Product ID": 1,
+    "Product Name": "Ruby Soap",
+    "Category": "Beauty",
+    "Reorder Point": 16,
+    "Stock Amount": 111,
+    "Cost": 356.6
+  },
+  {
+    "Supplier": "Ware Plus",
+    "Product ID": 8,
+    "Product Name": "Aqua Bag",
+    "Category": "Furniture",
+    "Reorder Point": 12,
+    "Stock Amount": 172,
+    "Cost": 188.17
+  },
+  {
+    "Supplier": "Ware Plus",
+    "Product ID": 18,
+    "Product Name": "Aqua Camera",
+    "Category": "Toys",
+    "Reorder Point": 6,
+    "Stock Amount": 167,
+    "Cost": 93.66
+  },
+  {
+    "Supplier": "Ware Plus",
+    "Product ID": 23,
+    "Product Name": "Mystic Tablet",
+    "Category": "Clothing",
+    "Reorder Point": 13,
+    "Stock Amount": 62,
+    "Cost": 108.32
+  },
+  {
+    "Supplier": "Ware Plus",
+    "Product ID": 32,
+    "Product Name": "Terra Headset",
+    "Category": "Health",
+    "Reorder Point": 22,
+    "Stock Amount": 15,
+    "Cost": 74.12
+  },
+  {
+    "Supplier": "Ware Plus",
+    "Product ID": 33,
+    "Product Name": "Zenith Soap",
+    "Category": "Beauty",
+    "Reorder Point": 9,
+    "Stock Amount": 155,
+    "Cost": 497.98
+  },
+  {
+    "Supplier": "Ware Plus",
+    "Product ID": 36,
+    "Product Name": "Aqua Ball",
+    "Category": "Clothing",
+    "Reorder Point": 8,
+    "Stock Amount": 175,
+    "Cost": 414.73
+  },
+  {
+    "Supplier": "Ware Plus",
+    "Product ID": 44,
+    "Product Name": "Royal Lamp",
+    "Category": "Furniture",
+    "Reorder Point": 17,
+    "Stock Amount": 89,
+    "Cost": 125.88
+  },
+  {
+    "Supplier": "Ware Plus",
+    "Product ID": 54,
+    "Product Name": "Royal Drone",
+    "Category": "Clothing",
+    "Reorder Point": 9,
+    "Stock Amount": 87,
+    "Cost": 172.88
+  },
+  {
+    "Supplier": "Ware Plus",
+    "Product ID": 56,
+    "Product Name": "Golden Shirt",
+    "Category": "Kitchen",
+    "Reorder Point": 6,
+    "Stock Amount": 151,
+    "Cost": 135.6
+  },
+  {
+    "Supplier": "Ware Plus",
+    "Product ID": 61,
+    "Product Name": "Titan Lamp",
+    "Category": "Electronics",
+    "Reorder Point": 21,
+    "Stock Amount": 5,
+    "Cost": 45.68
+  },
+  {
+    "Supplier": "Ware Plus",
+    "Product ID": 63,
+    "Product Name": "Titan Laptop",
+    "Category": "Automotive",
+    "Reorder Point": 8,
+    "Stock Amount": 98,
+    "Cost": 350.02
+  },
+  {
+    "Supplier": "Ware Plus",
+    "Product ID": 64,
+    "Product Name": "Nova Sneakers",
+    "Category": "Electronics",
+    "Reorder Point": 23,
+    "Stock Amount": 165,
+    "Cost": 280.15
+  },
+  {
+    "Supplier": "Ware Plus",
+    "Product ID": 69,
+    "Product Name": "Velvet Watch",
+    "Category": "Beauty",
+    "Reorder Point": 18,
+    "Stock Amount": 64,
+    "Cost": 332.29
+  },
+  {
+    "Supplier": "Ware Plus",
+    "Product ID": 77,
+    "Product Name": "Echo Sneakers",
+    "Category": "Toys",
+    "Reorder Point": 25,
+    "Stock Amount": 152,
+    "Cost": 443.57
+  },
+  {
+    "Supplier": "Ware Plus",
+    "Product ID": 78,
+    "Product Name": "Titan Chair",
+    "Category": "Clothing",
+    "Reorder Point": 5,
+    "Stock Amount": 117,
+    "Cost": 328.64
+  },
+  {
+    "Supplier": "Ware Plus",
+    "Product ID": 81,
+    "Product Name": "Shadow Bag",
+    "Category": "Furniture",
+    "Reorder Point": 8,
+    "Stock Amount": 175,
+    "Cost": 217.69
+  },
+  {
+    "Supplier": "FA-Ghost",
+    "Product ID": 52,
+    "Product Name": "Royal Laptop",
+    "Category": "Kitchen",
+    "Reorder Point": 20,
+    "Stock Amount": 124,
+    "Cost": 291.79
+  },
+  {
+    "Supplier": "FA-Ghost",
+    "Product ID": 15,
+    "Product Name": "Emerald Chair",
+    "Category": "Toys",
+    "Reorder Point": 27,
+    "Stock Amount": 189,
+    "Cost": 26.95
+  },
+  {
+    "Supplier": "FA-Ghost",
+    "Product ID": 72,
+    "Product Name": "Mystic Book",
+    "Category": "Kitchen",
+    "Reorder Point": 15,
+    "Stock Amount": 71,
+    "Cost": 409.12
+  },
+  {
+    "Supplier": "FA-Ghost",
+    "Product ID": 61,
+    "Product Name": "Cobalt Mixer",
+    "Category": "Electronics",
+    "Reorder Point": 21,
+    "Stock Amount": 5,
+    "Cost": 45.68
+  },
+  {
+    "Supplier": "FA-Ghost",
+    "Product ID": 21,
+    "Product Name": "Shadow Chair",
+    "Category": "Toys",
+    "Reorder Point": 8,
+    "Stock Amount": 14,
+    "Cost": 44.72
+  },
+  {
+    "Supplier": "FA-Ghost",
+    "Product ID": 75,
+    "Product Name": "Echo Glasses",
+    "Category": "Groceries",
+    "Reorder Point": 7,
+    "Stock Amount": 137,
+    "Cost": 43.04
+  },
+  {
+    "Supplier": "FA-Ghost",
+    "Product ID": 75,
+    "Product Name": "Amber Notebook",
+    "Category": "Groceries",
+    "Reorder Point": 7,
+    "Stock Amount": 137,
+    "Cost": 43.04
+  },
+  {
+    "Supplier": "FA-Ghost",
+    "Product ID": 24,
+    "Product Name": "Zenith Laptop",
+    "Category": "Toys",
+    "Reorder Point": 27,
+    "Stock Amount": 169,
+    "Cost": 140.26
+  },
+  {
+    "Supplier": "FA-Ghost",
+    "Product ID": 3,
+    "Product Name": "Echo Drone",
+    "Category": "Automotive",
+    "Reorder Point": 20,
+    "Stock Amount": 94,
+    "Cost": 221.62
+  },
+  {
+    "Supplier": "FA-Ghost",
+    "Product ID": 22,
+    "Product Name": "Zenith Console",
+    "Category": "Stationery",
+    "Reorder Point": 27,
+    "Stock Amount": 170,
+    "Cost": 382.05
+  },
+  {
+    "Supplier": "FA-Ghost",
+    "Product ID": 53,
+    "Product Name": "Nova Camera",
+    "Category": "Health",
+    "Reorder Point": 21,
+    "Stock Amount": 111,
+    "Cost": 437.81
+  },
+  {
+    "Supplier": "FA-Ghost",
+    "Product ID": 2,
+    "Product Name": "Lunar Console",
+    "Category": "Health",
+    "Reorder Point": 17,
+    "Stock Amount": 22,
+    "Cost": 474.45
+  },
+  {
+    "Supplier": "FA-Ghost",
+    "Product ID": 30,
+    "Product Name": "Zenith Watch",
+    "Category": "Furniture",
+    "Reorder Point": 24,
+    "Stock Amount": 97,
+    "Cost": 125.76
+  },
+  {
+    "Supplier": "FA-Ghost",
+    "Product ID": 38,
+    "Product Name": "Terra Cream",
+    "Category": "Beauty",
+    "Reorder Point": 14,
+    "Stock Amount": 150,
+    "Cost": 307.91
+  },
+  {
+    "Supplier": "FA-Ghost",
+    "Product ID": 2,
+    "Product Name": "Titan Shirt",
+    "Category": "Health",
+    "Reorder Point": 17,
+    "Stock Amount": 22,
+    "Cost": 474.45
+  }
+]

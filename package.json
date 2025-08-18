@@ -2,19 +2,30 @@
   "type": "module",
   "dependencies": {
     "cors": "^2.8.5",
+    "crypto": "^1.0.1",
+    "dotenv": "^17.2.1",
     "env": "^0.0.2",
+    "exceljs": "^4.4.0",
     "express": "^5.1.0",
+    "morgan": "^1.10.1",
     "pg": "^8.16.3"
   },
   "name": "sales-tracker-backend",
   "version": "1.0.0",
   "main": "server.js",
-  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
   },
   "author": "Fisayo",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FA-ghost/Sales-Tracker-Backend.git"
+  },
+  "bugs": {
+    "url": "https://github.com/FA-ghost/Sales-Tracker-Backend/issues"
+  },
+  "homepage": "https://github.com/FA-ghost/Sales-Tracker-Backend#readme",
   "description": ""
 }

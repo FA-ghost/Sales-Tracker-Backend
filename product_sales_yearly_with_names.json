@@ -1,0 +1,1460 @@
+[
+    {
+        "Year": 2022,
+        "Yearly Sales": 2865,
+        "Yearly Revenue": 1021659.0,
+        "Product Name": "Ruby Soap"
+    },
+    {
+        "Year": 2023,
+        "Yearly Sales": 4111,
+        "Yearly Revenue": 1465982.6,
+        "Product Name": "Ruby Soap"
+    },
+    {
+        "Year": 2024,
+        "Yearly Sales": 3754,
+        "Yearly Revenue": 1338676.4,
+        "Product Name": "Ruby Soap"
+    },
+    {
+        "Year": 2022,
+        "Yearly Sales": 3010,
+        "Yearly Revenue": 1428094.5,
+        "Product Name": "Titan Shirt"
+    },
+    {
+        "Year": 2023,
+        "Yearly Sales": 3268,
+        "Yearly Revenue": 1550502.6,
+        "Product Name": "Titan Shirt"
+    },
+    {
+        "Year": 2024,
+        "Yearly Sales": 3679,
+        "Yearly Revenue": 1745501.55,
+        "Product Name": "Titan Shirt"
+    },
+    {
+        "Year": 2022,
+        "Yearly Sales": 3374,
+        "Yearly Revenue": 747745.88,
+        "Product Name": "Echo Drone"
+    },
+    {
+        "Year": 2023,
+        "Yearly Sales": 2421,
+        "Yearly Revenue": 536542.02,
+        "Product Name": "Echo Drone"
+    },
+    {
+        "Year": 2024,
+        "Yearly Sales": 3083,
+        "Yearly Revenue": 683254.46,
+        "Product Name": "Echo Drone"
+    },
+    {
+        "Year": 2022,
+        "Yearly Sales": 1154,
+        "Yearly Revenue": 142715.18,
+        "Product Name": "Azure Drone"
+    },
+    {
+        "Year": 2023,
+        "Yearly Sales": 3052,
+        "Yearly Revenue": 377440.84,
+        "Product Name": "Azure Drone"
+    },
+    {
+        "Year": 2024,
+        "Yearly Sales": 3050,
+        "Yearly Revenue": 377193.5,
+        "Product Name": "Azure Drone"
+    },
+    {
+        "Year": 2022,
+        "Yearly Sales": 2338,
+        "Yearly Revenue": 637923.3,
+        "Product Name": "Golden Drone"
+    },
+    {
+        "Year": 2023,
+        "Yearly Sales": 2909,
+        "Yearly Revenue": 793720.65,
+        "Product Name": "Golden Drone"
+    },
+    {
+        "Year": 2024,
+        "Yearly Sales": 3127,
+        "Yearly Revenue": 853201.95,
+        "Product Name": "Golden Drone"
+    },
+    {
+        "Year": 2022,
+        "Yearly Sales": 2100,
+        "Yearly Revenue": 417942.0,
+        "Product Name": "Terra Table"
+    },
+    {
+        "Year": 2023,
+        "Yearly Sales": 3296,
+        "Yearly Revenue": 655969.92,
+        "Product Name": "Terra Table"
+    },
+    {
+        "Year": 2024,
+        "Yearly Sales": 2558,
+        "Yearly Revenue": 509093.16,
+        "Product Name": "Terra Table"
+    },
+    {
+        "Year": 2022,
+        "Yearly Sales": 3220,
+        "Yearly Revenue": 342543.6,
+        "Product Name": "Sapphire Ball"
+    },
+    {
+        "Year": 2023,
+        "Yearly Sales": 2794,
+        "Yearly Revenue": 297225.72,
+        "Product Name": "Sapphire Ball"
+    },
+    {
+        "Year": 2024,
+        "Yearly Sales": 3032,
+        "Yearly Revenue": 322544.16,
+        "Product Name": "Sapphire Ball"
+    },
+    {
+        "Year": 2022,
+        "Yearly Sales": 3584,
+        "Yearly Revenue": 674401.28,
+        "Product Name": "Aqua Bag"
+    },
+    {
+        "Year": 2023,
+        "Yearly Sales": 3345,
+        "Yearly Revenue": 629428.65,
+        "Product Name": "Aqua Bag"
+    },
+    {
+        "Year": 2024,
+        "Yearly Sales": 2494,
+        "Yearly Revenue": 469295.98,
+        "Product Name": "Aqua Bag"
+    },
+    {
+        "Year": 2022,
+        "Yearly Sales": 3172,
+        "Yearly Revenue": 878866.04,
+        "Product Name": "Royal Phone"
+    },
+    {
+        "Year": 2023,
+        "Yearly Sales": 2079,
+        "Yearly Revenue": 576028.53,
+        "Product Name": "Royal Phone"
+    },
+    {
+        "Year": 2024,
+        "Yearly Sales": 2949,
+        "Yearly Revenue": 817079.43,
+        "Product Name": "Royal Phone"
+    },
+    {
+        "Year": 2022,
+        "Yearly Sales": 3215,
+        "Yearly Revenue": 244822.25,
+        "Product Name": "Arctic Ball"
+    },
+    {
+        "Year": 2023,
+        "Yearly Sales": 3016,
+        "Yearly Revenue": 229668.4,
+        "Product Name": "Arctic Ball"
+    },
+    {
+        "Year": 2024,
+        "Yearly Sales": 2341,
+        "Yearly Revenue": 178267.15,
+        "Product Name": "Arctic Ball"
+    },
+    {
+        "Year": 2022,
+        "Yearly Sales": 2112,
+        "Yearly Revenue": 307232.64,
+        "Product Name": "Titan Soap"
+    },
+    {
+        "Year": 2023,
+        "Yearly Sales": 3073,
+        "Yearly Revenue": 447029.31,
+        "Product Name": "Titan Soap"
+    },
+    {
+        "Year": 2024,
+        "Yearly Sales": 3213,
+        "Yearly Revenue": 467395.11,
+        "Product Name": "Titan Soap"
+    },
+    {
+        "Year": 2022,
+        "Yearly Sales": 1571,
+        "Yearly Revenue": 74952.41,
+        "Product Name": "Crimson Cream"
+    },
+    {
+        "Year": 2023,
+        "Yearly Sales": 3131,
+        "Yearly Revenue": 149380.01,
+        "Product Name": "Crimson Cream"
+    },
+    {
+        "Year": 2024,
+        "Yearly Sales": 2989,
+        "Yearly Revenue": 142605.19,
+        "Product Name": "Crimson Cream"
+    },
+    {
+        "Year": 2022,
+        "Yearly Sales": 2964,
+        "Yearly Revenue": 157803.36,
+        "Product Name": "Mystic Shirt"
+    },
+    {
+        "Year": 2023,
+        "Yearly Sales": 3412,
+        "Yearly Revenue": 181654.88,
+        "Product Name": "Mystic Shirt"
+    },
+    {
+        "Year": 2024,
+        "Yearly Sales": 2946,
+        "Yearly Revenue": 156845.04,
+        "Product Name": "Mystic Shirt"
+    },
+    {
+        "Year": 2022,
+        "Yearly Sales": 2529,
+        "Yearly Revenue": 1214476.38,
+        "Product Name": "Golden Camera"
+    },
+    {
+        "Year": 2023,
+        "Yearly Sales": 3241,
+        "Yearly Revenue": 1556393.02,
+        "Product Name": "Golden Camera"
+    },
+    {
+        "Year": 2024,
+        "Yearly Sales": 2818,
+        "Yearly Revenue": 1353259.96,
+        "Product Name": "Golden Camera"
+    },
+    {
+        "Year": 2022,
+        "Yearly Sales": 2627,
+        "Yearly Revenue": 70797.65,
+        "Product Name": "Emerald Chair"
+    },
+    {
+        "Year": 2023,
+        "Yearly Sales": 2644,
+        "Yearly Revenue": 71255.8,
+        "Product Name": "Emerald Chair"
+    },
+    {
+        "Year": 2024,
+        "Yearly Sales": 3120,
+        "Yearly Revenue": 84084.0,
+        "Product Name": "Emerald Chair"
+    },
+    {
+        "Year": 2022,
+        "Yearly Sales": 3490,
+        "Yearly Revenue": 1206981.6,
+        "Product Name": "Shadow Tablet"
+    },
+    {
+        "Year": 2023,
+        "Yearly Sales": 3627,
+        "Yearly Revenue": 1254361.68,
+        "Product Name": "Shadow Tablet"
+    },
+    {
+        "Year": 2024,
+        "Yearly Sales": 2498,
+        "Yearly Revenue": 863908.32,
+        "Product Name": "Shadow Tablet"
+    },
+    {
+        "Year": 2022,
+        "Yearly Sales": 3135,
+        "Yearly Revenue": 731520.9,
+        "Product Name": "Terra Bottle"
+    },
+    {
+        "Year": 2023,
+        "Yearly Sales": 4195,
+        "Yearly Revenue": 978861.3,
+        "Product Name": "Terra Bottle"
+    },
+    {
+        "Year": 2024,
+        "Yearly Sales": 2348,
+        "Yearly Revenue": 547882.32,
+        "Product Name": "Terra Bottle"
+    },
+    {
+        "Year": 2022,
+        "Yearly Sales": 2416,
+        "Yearly Revenue": 226282.56,
+        "Product Name": "Aqua Camera"
+    },
+    {
+        "Year": 2023,
+        "Yearly Sales": 1993,
+        "Yearly Revenue": 186664.38,
+        "Product Name": "Aqua Camera"
+    },
+    {
+        "Year": 2024,
+        "Yearly Sales": 3966,
+        "Yearly Revenue": 371455.56,
+        "Product Name": "Aqua Camera"
+    },
+    {
+        "Year": 2022,
+        "Yearly Sales": 3030,
+        "Yearly Revenue": 56388.3,
+        "Product Name": "Crystal Lamp"
+    },
+    {
+        "Year": 2023,
+        "Yearly Sales": 3505,
+        "Yearly Revenue": 65228.05,
+        "Product Name": "Crystal Lamp"
+    },
+    {
+        "Year": 2024,
+        "Yearly Sales": 3247,
+        "Yearly Revenue": 60426.67,
+        "Product Name": "Crystal Lamp"
+    },
+    {
+        "Year": 2022,
+        "Yearly Sales": 3769,
+        "Yearly Revenue": 1613132.0,
+        "Product Name": "Cobalt Sneakers"
+    },
+    {
+        "Year": 2023,
+        "Yearly Sales": 3422,
+        "Yearly Revenue": 1464616.0,
+        "Product Name": "Cobalt Sneakers"
+    },
+    {
+        "Year": 2024,
+        "Yearly Sales": 3267,
+        "Yearly Revenue": 1398276.0,
+        "Product Name": "Cobalt Sneakers"
+    },
+    {
+        "Year": 2022,
+        "Yearly Sales": 2679,
+        "Yearly Revenue": 119804.88,
+        "Product Name": "Shadow Chair"
+    },
+    {
+        "Year": 2023,
+        "Yearly Sales": 2488,
+        "Yearly Revenue": 111263.36,
+        "Product Name": "Shadow Chair"
+    },
+    {
+        "Year": 2024,
+        "Yearly Sales": 3193,
+        "Yearly Revenue": 142790.96,
+        "Product Name": "Shadow Chair"
+    },
+    {
+        "Year": 2022,
+        "Yearly Sales": 3302,
+        "Yearly Revenue": 1261529.1,
+        "Product Name": "Zenith Console"
+    },
+    {
+        "Year": 2023,
+        "Yearly Sales": 2891,
+        "Yearly Revenue": 1104506.55,
+        "Product Name": "Zenith Console"
+    },
+    {
+        "Year": 2024,
+        "Yearly Sales": 3156,
+        "Yearly Revenue": 1205749.8,
+        "Product Name": "Zenith Console"
+    },
+    {
+        "Year": 2022,
+        "Yearly Sales": 1954,
+        "Yearly Revenue": 211657.28,
+        "Product Name": "Mystic Tablet"
+    },
+    {
+        "Year": 2023,
+        "Yearly Sales": 2285,
+        "Yearly Revenue": 247511.2,
+        "Product Name": "Mystic Tablet"
+    },
+    {
+        "Year": 2024,
+        "Yearly Sales": 2342,
+        "Yearly Revenue": 253685.44,
+        "Product Name": "Mystic Tablet"
+    },
+    {
+        "Year": 2022,
+        "Yearly Sales": 2820,
+        "Yearly Revenue": 395533.2,
+        "Product Name": "Zenith Laptop"
+    },
+    {
+        "Year": 2023,
+        "Yearly Sales": 2833,
+        "Yearly Revenue": 397356.58,
+        "Product Name": "Zenith Laptop"
+    },
+    {
+        "Year": 2024,
+        "Yearly Sales": 2673,
+        "Yearly Revenue": 374914.98,
+        "Product Name": "Zenith Laptop"
+    },
+    {
+        "Year": 2022,
+        "Yearly Sales": 2898,
+        "Yearly Revenue": 158433.66,
+        "Product Name": "Blaze Shirt"
+    },
+    {
+        "Year": 2023,
+        "Yearly Sales": 3522,
+        "Yearly Revenue": 192547.74,
+        "Product Name": "Blaze Shirt"
+    },
+    {
+        "Year": 2024,
+        "Yearly Sales": 4164,
+        "Yearly Revenue": 227645.88,
+        "Product Name": "Blaze Shirt"
+    },
+    {
+        "Year": 2022,
+        "Yearly Sales": 2619,
+        "Yearly Revenue": 1280717.19,
+        "Product Name": "Azure Watch"
+    },
+    {
+        "Year": 2023,
+        "Yearly Sales": 2893,
+        "Yearly Revenue": 1414705.93,
+        "Product Name": "Azure Watch"
+    },
+    {
+        "Year": 2024,
+        "Yearly Sales": 2522,
+        "Yearly Revenue": 1233283.22,
+        "Product Name": "Azure Watch"
+    },
+    {
+        "Year": 2022,
+        "Yearly Sales": 3145,
+        "Yearly Revenue": 1292060.35,
+        "Product Name": "Solar Sneakers"
+    },
+    {
+        "Year": 2023,
+        "Yearly Sales": 3394,
+        "Yearly Revenue": 1394357.02,
+        "Product Name": "Solar Sneakers"
+    },
+    {
+        "Year": 2024,
+        "Yearly Sales": 3473,
+        "Yearly Revenue": 1426812.59,
+        "Product Name": "Solar Sneakers"
+    },
+    {
+        "Year": 2022,
+        "Yearly Sales": 3177,
+        "Yearly Revenue": 1495699.83,
+        "Product Name": "Golden Speaker"
+    },
+    {
+        "Year": 2023,
+        "Yearly Sales": 3452,
+        "Yearly Revenue": 1625167.08,
+        "Product Name": "Golden Speaker"
+    },
+    {
+        "Year": 2024,
+        "Yearly Sales": 2371,
+        "Yearly Revenue": 1116243.09,
+        "Product Name": "Golden Speaker"
+    },
+    {
+        "Year": 2022,
+        "Yearly Sales": 2662,
+        "Yearly Revenue": 1213179.88,
+        "Product Name": "Cobalt Speaker"
+    },
+    {
+        "Year": 2023,
+        "Yearly Sales": 3150,
+        "Yearly Revenue": 1435581.0,
+        "Product Name": "Cobalt Speaker"
+    },
+    {
+        "Year": 2024,
+        "Yearly Sales": 2694,
+        "Yearly Revenue": 1227763.56,
+        "Product Name": "Cobalt Speaker"
+    },
+    {
+        "Year": 2022,
+        "Yearly Sales": 3196,
+        "Yearly Revenue": 401928.96,
+        "Product Name": "Zenith Watch"
+    },
+    {
+        "Year": 2023,
+        "Yearly Sales": 2767,
+        "Yearly Revenue": 347977.92,
+        "Product Name": "Zenith Watch"
+    },
+    {
+        "Year": 2024,
+        "Yearly Sales": 2084,
+        "Yearly Revenue": 262083.84,
+        "Product Name": "Zenith Watch"
+    },
+    {
+        "Year": 2022,
+        "Yearly Sales": 3977,
+        "Yearly Revenue": 1282662.04,
+        "Product Name": "Lunar Chair"
+    },
+    {
+        "Year": 2023,
+        "Yearly Sales": 2961,
+        "Yearly Revenue": 954981.72,
+        "Product Name": "Lunar Chair"
+    },
+    {
+        "Year": 2024,
+        "Yearly Sales": 2548,
+        "Yearly Revenue": 821780.96,
+        "Product Name": "Lunar Chair"
+    },
+    {
+        "Year": 2022,
+        "Yearly Sales": 3354,
+        "Yearly Revenue": 248598.48,
+        "Product Name": "Terra Headset"
+    },
+    {
+        "Year": 2023,
+        "Yearly Sales": 3849,
+        "Yearly Revenue": 285287.88,
+        "Product Name": "Terra Headset"
+    },
+    {
+        "Year": 2024,
+        "Yearly Sales": 3461,
+        "Yearly Revenue": 256529.32,
+        "Product Name": "Terra Headset"
+    },
+    {
+        "Year": 2022,
+        "Yearly Sales": 2254,
+        "Yearly Revenue": 1122446.92,
+        "Product Name": "Zenith Soap"
+    },
+    {
+        "Year": 2023,
+        "Yearly Sales": 2951,
+        "Yearly Revenue": 1469538.98,
+        "Product Name": "Zenith Soap"
+    },
+    {
+        "Year": 2024,
+        "Yearly Sales": 1977,
+        "Yearly Revenue": 984506.46,
+        "Product Name": "Zenith Soap"
+    },
+    {
+        "Year": 2022,
+        "Yearly Sales": 3082,
+        "Yearly Revenue": 1147428.6,
+        "Product Name": "Ruby Mixer"
+    },
+    {
+        "Year": 2023,
+        "Yearly Sales": 2850,
+        "Yearly Revenue": 1061055.0,
+        "Product Name": "Ruby Mixer"
+    },
+    {
+        "Year": 2024,
+        "Yearly Sales": 3115,
+        "Yearly Revenue": 1159714.5,
+        "Product Name": "Ruby Mixer"
+    },
+    {
+        "Year": 2022,
+        "Yearly Sales": 2294,
+        "Yearly Revenue": 1041911.86,
+        "Product Name": "Shadow Lamp"
+    },
+    {
+        "Year": 2023,
+        "Yearly Sales": 3153,
+        "Yearly Revenue": 1432061.07,
+        "Product Name": "Shadow Lamp"
+    },
+    {
+        "Year": 2024,
+        "Yearly Sales": 3929,
+        "Yearly Revenue": 1784512.51,
+        "Product Name": "Shadow Lamp"
+    },
+    {
+        "Year": 2022,
+        "Yearly Sales": 2467,
+        "Yearly Revenue": 1023138.91,
+        "Product Name": "Aqua Ball"
+    },
+    {
+        "Year": 2023,
+        "Yearly Sales": 2492,
+        "Yearly Revenue": 1033507.16,
+        "Product Name": "Aqua Ball"
+    },
+    {
+        "Year": 2024,
+        "Yearly Sales": 2743,
+        "Yearly Revenue": 1137604.39,
+        "Product Name": "Aqua Ball"
+    },
+    {
+        "Year": 2022,
+        "Yearly Sales": 3421,
+        "Yearly Revenue": 548420.51,
+        "Product Name": "Terra Speaker"
+    },
+    {
+        "Year": 2023,
+        "Yearly Sales": 3272,
+        "Yearly Revenue": 524534.32,
+        "Product Name": "Terra Speaker"
+    },
+    {
+        "Year": 2024,
+        "Yearly Sales": 3312,
+        "Yearly Revenue": 530946.72,
+        "Product Name": "Terra Speaker"
+    },
+    {
+        "Year": 2022,
+        "Yearly Sales": 3149,
+        "Yearly Revenue": 969608.59,
+        "Product Name": "Terra Cream"
+    },
+    {
+        "Year": 2023,
+        "Yearly Sales": 3012,
+        "Yearly Revenue": 927424.92,
+        "Product Name": "Terra Cream"
+    },
+    {
+        "Year": 2024,
+        "Yearly Sales": 3423,
+        "Yearly Revenue": 1053975.93,
+        "Product Name": "Terra Cream"
+    },
+    {
+        "Year": 2022,
+        "Yearly Sales": 2844,
+        "Yearly Revenue": 114499.44,
+        "Product Name": "Shadow Drone"
+    },
+    {
+        "Year": 2023,
+        "Yearly Sales": 2355,
+        "Yearly Revenue": 94812.3,
+        "Product Name": "Shadow Drone"
+    },
+    {
+        "Year": 2024,
+        "Yearly Sales": 3052,
+        "Yearly Revenue": 122873.52,
+        "Product Name": "Shadow Drone"
+    },
+    {
+        "Year": 2022,
+        "Yearly Sales": 3922,
+        "Yearly Revenue": 1725523.12,
+        "Product Name": "Velvet Glasses"
+    },
+    {
+        "Year": 2023,
+        "Yearly Sales": 3299,
+        "Yearly Revenue": 1451428.04,
+        "Product Name": "Velvet Glasses"
+    },
+    {
+        "Year": 2024,
+        "Yearly Sales": 2804,
+        "Yearly Revenue": 1233647.84,
+        "Product Name": "Velvet Glasses"
+    },
+    {
+        "Year": 2022,
+        "Yearly Sales": 3088,
+        "Yearly Revenue": 920347.52,
+        "Product Name": "Lunar Speaker"
+    },
+    {
+        "Year": 2023,
+        "Yearly Sales": 2864,
+        "Yearly Revenue": 853586.56,
+        "Product Name": "Lunar Speaker"
+    },
+    {
+        "Year": 2024,
+        "Yearly Sales": 3188,
+        "Yearly Revenue": 950151.52,
+        "Product Name": "Lunar Speaker"
+    },
+    {
+        "Year": 2022,
+        "Yearly Sales": 2943,
+        "Yearly Revenue": 309103.29,
+        "Product Name": "Lunar Sneakers"
+    },
+    {
+        "Year": 2023,
+        "Yearly Sales": 1817,
+        "Yearly Revenue": 190839.51,
+        "Product Name": "Lunar Sneakers"
+    },
+    {
+        "Year": 2024,
+        "Yearly Sales": 3956,
+        "Yearly Revenue": 415498.68,
+        "Product Name": "Lunar Sneakers"
+    },
+    {
+        "Year": 2022,
+        "Yearly Sales": 3090,
+        "Yearly Revenue": 173812.5,
+        "Product Name": "Crystal Soap"
+    },
+    {
+        "Year": 2023,
+        "Yearly Sales": 3169,
+        "Yearly Revenue": 178256.25,
+        "Product Name": "Crystal Soap"
+    },
+    {
+        "Year": 2024,
+        "Yearly Sales": 3725,
+        "Yearly Revenue": 209531.25,
+        "Product Name": "Crystal Soap"
+    },
+    {
+        "Year": 2022,
+        "Yearly Sales": 2240,
+        "Yearly Revenue": 281971.2,
+        "Product Name": "Royal Lamp"
+    },
+    {
+        "Year": 2023,
+        "Yearly Sales": 2809,
+        "Yearly Revenue": 353596.92,
+        "Product Name": "Royal Lamp"
+    },
+    {
+        "Year": 2024,
+        "Yearly Sales": 3048,
+        "Yearly Revenue": 383682.24,
+        "Product Name": "Royal Lamp"
+    },
+    {
+        "Year": 2022,
+        "Yearly Sales": 3795,
+        "Yearly Revenue": 518548.8,
+        "Product Name": "Zenith Speaker"
+    },
+    {
+        "Year": 2023,
+        "Yearly Sales": 2679,
+        "Yearly Revenue": 366058.56,
+        "Product Name": "Zenith Speaker"
+    },
+    {
+        "Year": 2024,
+        "Yearly Sales": 3487,
+        "Yearly Revenue": 476463.68,
+        "Product Name": "Zenith Speaker"
+    },
+    {
+        "Year": 2022,
+        "Yearly Sales": 2839,
+        "Yearly Revenue": 257213.4,
+        "Product Name": "Arctic Speaker"
+    },
+    {
+        "Year": 2023,
+        "Yearly Sales": 3624,
+        "Yearly Revenue": 328334.4,
+        "Product Name": "Arctic Speaker"
+    },
+    {
+        "Year": 2024,
+        "Yearly Sales": 2865,
+        "Yearly Revenue": 259569.0,
+        "Product Name": "Arctic Speaker"
+    },
+    {
+        "Year": 2022,
+        "Yearly Sales": 3106,
+        "Yearly Revenue": 1264235.18,
+        "Product Name": "Ivory Bag"
+    },
+    {
+        "Year": 2023,
+        "Yearly Sales": 3064,
+        "Yearly Revenue": 1247139.92,
+        "Product Name": "Ivory Bag"
+    },
+    {
+        "Year": 2024,
+        "Yearly Sales": 3322,
+        "Yearly Revenue": 1352153.66,
+        "Product Name": "Ivory Bag"
+    },
+    {
+        "Year": 2022,
+        "Yearly Sales": 3628,
+        "Yearly Revenue": 627752.84,
+        "Product Name": "Zenith Cream"
+    },
+    {
+        "Year": 2023,
+        "Yearly Sales": 2803,
+        "Yearly Revenue": 485003.09,
+        "Product Name": "Zenith Cream"
+    },
+    {
+        "Year": 2024,
+        "Yearly Sales": 2411,
+        "Yearly Revenue": 417175.33,
+        "Product Name": "Zenith Cream"
+    },
+    {
+        "Year": 2022,
+        "Yearly Sales": 2117,
+        "Yearly Revenue": 861407.3,
+        "Product Name": "Crystal Notebook"
+    },
+    {
+        "Year": 2023,
+        "Yearly Sales": 2619,
+        "Yearly Revenue": 1065671.1,
+        "Product Name": "Crystal Notebook"
+    },
+    {
+        "Year": 2024,
+        "Yearly Sales": 3054,
+        "Yearly Revenue": 1242672.6,
+        "Product Name": "Crystal Notebook"
+    },
+    {
+        "Year": 2022,
+        "Yearly Sales": 2940,
+        "Yearly Revenue": 406102.2,
+        "Product Name": "Echo Ball"
+    },
+    {
+        "Year": 2023,
+        "Yearly Sales": 2601,
+        "Yearly Revenue": 359276.13,
+        "Product Name": "Echo Ball"
+    },
+    {
+        "Year": 2024,
+        "Yearly Sales": 2930,
+        "Yearly Revenue": 404720.9,
+        "Product Name": "Echo Ball"
+    },
+    {
+        "Year": 2022,
+        "Yearly Sales": 3179,
+        "Yearly Revenue": 1421267.32,
+        "Product Name": "Titan Headset"
+    },
+    {
+        "Year": 2023,
+        "Yearly Sales": 3111,
+        "Yearly Revenue": 1390865.88,
+        "Product Name": "Titan Headset"
+    },
+    {
+        "Year": 2024,
+        "Yearly Sales": 2518,
+        "Yearly Revenue": 1125747.44,
+        "Product Name": "Titan Headset"
+    },
+    {
+        "Year": 2022,
+        "Yearly Sales": 3534,
+        "Yearly Revenue": 1031185.86,
+        "Product Name": "Royal Laptop"
+    },
+    {
+        "Year": 2023,
+        "Yearly Sales": 3448,
+        "Yearly Revenue": 1006091.92,
+        "Product Name": "Royal Laptop"
+    },
+    {
+        "Year": 2024,
+        "Yearly Sales": 3262,
+        "Yearly Revenue": 951818.98,
+        "Product Name": "Royal Laptop"
+    },
+    {
+        "Year": 2022,
+        "Yearly Sales": 3224,
+        "Yearly Revenue": 1411499.44,
+        "Product Name": "Nova Camera"
+    },
+    {
+        "Year": 2023,
+        "Yearly Sales": 4160,
+        "Yearly Revenue": 1821289.6,
+        "Product Name": "Nova Camera"
+    },
+    {
+        "Year": 2024,
+        "Yearly Sales": 2021,
+        "Yearly Revenue": 884814.01,
+        "Product Name": "Nova Camera"
+    },
+    {
+        "Year": 2022,
+        "Yearly Sales": 3691,
+        "Yearly Revenue": 638100.08,
+        "Product Name": "Royal Drone"
+    },
+    {
+        "Year": 2023,
+        "Yearly Sales": 3542,
+        "Yearly Revenue": 612340.96,
+        "Product Name": "Royal Drone"
+    },
+    {
+        "Year": 2024,
+        "Yearly Sales": 3103,
+        "Yearly Revenue": 536446.64,
+        "Product Name": "Royal Drone"
+    },
+    {
+        "Year": 2022,
+        "Yearly Sales": 3715,
+        "Yearly Revenue": 998777.75,
+        "Product Name": "Ivory Speaker"
+    },
+    {
+        "Year": 2023,
+        "Yearly Sales": 3024,
+        "Yearly Revenue": 813002.4,
+        "Product Name": "Ivory Speaker"
+    },
+    {
+        "Year": 2024,
+        "Yearly Sales": 1563,
+        "Yearly Revenue": 420212.55,
+        "Product Name": "Ivory Speaker"
+    },
+    {
+        "Year": 2022,
+        "Yearly Sales": 2846,
+        "Yearly Revenue": 385917.6,
+        "Product Name": "Golden Shirt"
+    },
+    {
+        "Year": 2023,
+        "Yearly Sales": 2650,
+        "Yearly Revenue": 359340.0,
+        "Product Name": "Golden Shirt"
+    },
+    {
+        "Year": 2024,
+        "Yearly Sales": 2519,
+        "Yearly Revenue": 341576.4,
+        "Product Name": "Golden Shirt"
+    },
+    {
+        "Year": 2022,
+        "Yearly Sales": 3677,
+        "Yearly Revenue": 1741353.66,
+        "Product Name": "Azure Camera"
+    },
+    {
+        "Year": 2023,
+        "Yearly Sales": 2688,
+        "Yearly Revenue": 1272983.04,
+        "Product Name": "Azure Camera"
+    },
+    {
+        "Year": 2024,
+        "Yearly Sales": 2161,
+        "Yearly Revenue": 1023406.38,
+        "Product Name": "Azure Camera"
+    },
+    {
+        "Year": 2022,
+        "Yearly Sales": 2735,
+        "Yearly Revenue": 231134.85,
+        "Product Name": "Golden Ball"
+    },
+    {
+        "Year": 2023,
+        "Yearly Sales": 2521,
+        "Yearly Revenue": 213049.71,
+        "Product Name": "Golden Ball"
+    },
+    {
+        "Year": 2024,
+        "Yearly Sales": 2699,
+        "Yearly Revenue": 228092.49,
+        "Product Name": "Golden Ball"
+    },
+    {
+        "Year": 2022,
+        "Yearly Sales": 2861,
+        "Yearly Revenue": 198839.5,
+        "Product Name": "Titan Bag"
+    },
+    {
+        "Year": 2023,
+        "Yearly Sales": 2684,
+        "Yearly Revenue": 186538.0,
+        "Product Name": "Titan Bag"
+    },
+    {
+        "Year": 2024,
+        "Yearly Sales": 3288,
+        "Yearly Revenue": 228516.0,
+        "Product Name": "Titan Bag"
+    },
+    {
+        "Year": 2022,
+        "Yearly Sales": 3186,
+        "Yearly Revenue": 587402.82,
+        "Product Name": "Golden Mixer"
+    },
+    {
+        "Year": 2023,
+        "Yearly Sales": 2627,
+        "Yearly Revenue": 484339.99,
+        "Product Name": "Golden Mixer"
+    },
+    {
+        "Year": 2024,
+        "Yearly Sales": 2842,
+        "Yearly Revenue": 523979.54,
+        "Product Name": "Golden Mixer"
+    },
+    {
+        "Year": 2022,
+        "Yearly Sales": 2807,
+        "Yearly Revenue": 128223.76,
+        "Product Name": "Cobalt Mixer"
+    },
+    {
+        "Year": 2023,
+        "Yearly Sales": 2708,
+        "Yearly Revenue": 123701.44,
+        "Product Name": "Cobalt Mixer"
+    },
+    {
+        "Year": 2024,
+        "Yearly Sales": 2348,
+        "Yearly Revenue": 107256.64,
+        "Product Name": "Cobalt Mixer"
+    },
+    {
+        "Year": 2022,
+        "Yearly Sales": 3507,
+        "Yearly Revenue": 1122275.07,
+        "Product Name": "Zenith Bike"
+    },
+    {
+        "Year": 2023,
+        "Yearly Sales": 3266,
+        "Yearly Revenue": 1045152.66,
+        "Product Name": "Zenith Bike"
+    },
+    {
+        "Year": 2024,
+        "Yearly Sales": 4136,
+        "Yearly Revenue": 1323561.36,
+        "Product Name": "Zenith Bike"
+    },
+    {
+        "Year": 2022,
+        "Yearly Sales": 2759,
+        "Yearly Revenue": 965705.18,
+        "Product Name": "Titan Laptop"
+    },
+    {
+        "Year": 2023,
+        "Yearly Sales": 4000,
+        "Yearly Revenue": 1400080.0,
+        "Product Name": "Titan Laptop"
+    },
+    {
+        "Year": 2024,
+        "Yearly Sales": 3813,
+        "Yearly Revenue": 1334626.26,
+        "Product Name": "Titan Laptop"
+    },
+    {
+        "Year": 2022,
+        "Yearly Sales": 2583,
+        "Yearly Revenue": 723627.45,
+        "Product Name": "Nova Sneakers"
+    },
+    {
+        "Year": 2023,
+        "Yearly Sales": 3682,
+        "Yearly Revenue": 1031512.3,
+        "Product Name": "Nova Sneakers"
+    },
+    {
+        "Year": 2024,
+        "Yearly Sales": 3433,
+        "Yearly Revenue": 961754.95,
+        "Product Name": "Nova Sneakers"
+    },
+    {
+        "Year": 2022,
+        "Yearly Sales": 2879,
+        "Yearly Revenue": 979522.17,
+        "Product Name": "Blaze Glasses"
+    },
+    {
+        "Year": 2023,
+        "Yearly Sales": 3498,
+        "Yearly Revenue": 1190124.54,
+        "Product Name": "Blaze Glasses"
+    },
+    {
+        "Year": 2024,
+        "Yearly Sales": 3090,
+        "Yearly Revenue": 1051310.7,
+        "Product Name": "Blaze Glasses"
+    },
+    {
+        "Year": 2022,
+        "Yearly Sales": 3017,
+        "Yearly Revenue": 574527.31,
+        "Product Name": "Blaze Headset"
+    },
+    {
+        "Year": 2023,
+        "Yearly Sales": 3748,
+        "Yearly Revenue": 713731.64,
+        "Product Name": "Blaze Headset"
+    },
+    {
+        "Year": 2024,
+        "Yearly Sales": 3468,
+        "Yearly Revenue": 660411.24,
+        "Product Name": "Blaze Headset"
+    },
+    {
+        "Year": 2022,
+        "Yearly Sales": 2094,
+        "Yearly Revenue": 1019778.0,
+        "Product Name": "Cobalt Bag"
+    },
+    {
+        "Year": 2023,
+        "Yearly Sales": 2866,
+        "Yearly Revenue": 1395742.0,
+        "Product Name": "Cobalt Bag"
+    },
+    {
+        "Year": 2024,
+        "Yearly Sales": 3061,
+        "Yearly Revenue": 1490707.0,
+        "Product Name": "Cobalt Bag"
+    },
+    {
+        "Year": 2022,
+        "Yearly Sales": 3581,
+        "Yearly Revenue": 448305.39,
+        "Product Name": "Arctic Camera"
+    },
+    {
+        "Year": 2023,
+        "Yearly Sales": 3969,
+        "Yearly Revenue": 496879.11,
+        "Product Name": "Arctic Camera"
+    },
+    {
+        "Year": 2024,
+        "Yearly Sales": 2959,
+        "Yearly Revenue": 370437.21,
+        "Product Name": "Arctic Camera"
+    },
+    {
+        "Year": 2022,
+        "Yearly Sales": 2594,
+        "Yearly Revenue": 861960.26,
+        "Product Name": "Velvet Watch"
+    },
+    {
+        "Year": 2023,
+        "Yearly Sales": 2875,
+        "Yearly Revenue": 955333.75,
+        "Product Name": "Velvet Watch"
+    },
+    {
+        "Year": 2024,
+        "Yearly Sales": 3140,
+        "Yearly Revenue": 1043390.6,
+        "Product Name": "Velvet Watch"
+    },
+    {
+        "Year": 2022,
+        "Yearly Sales": 3694,
+        "Yearly Revenue": 318127.28,
+        "Product Name": "Zenith Tablet"
+    },
+    {
+        "Year": 2023,
+        "Yearly Sales": 2484,
+        "Yearly Revenue": 213922.08,
+        "Product Name": "Zenith Tablet"
+    },
+    {
+        "Year": 2024,
+        "Yearly Sales": 2389,
+        "Yearly Revenue": 205740.68,
+        "Product Name": "Zenith Tablet"
+    },
+    {
+        "Year": 2022,
+        "Yearly Sales": 3040,
+        "Yearly Revenue": 1182316.8,
+        "Product Name": "Blaze Watch"
+    },
+    {
+        "Year": 2023,
+        "Yearly Sales": 2450,
+        "Yearly Revenue": 952854.0,
+        "Product Name": "Blaze Watch"
+    },
+    {
+        "Year": 2024,
+        "Yearly Sales": 4088,
+        "Yearly Revenue": 1589904.96,
+        "Product Name": "Blaze Watch"
+    },
+    {
+        "Year": 2022,
+        "Yearly Sales": 2745,
+        "Yearly Revenue": 1123034.4,
+        "Product Name": "Mystic Book"
+    },
+    {
+        "Year": 2023,
+        "Yearly Sales": 3310,
+        "Yearly Revenue": 1354187.2,
+        "Product Name": "Mystic Book"
+    },
+    {
+        "Year": 2024,
+        "Yearly Sales": 2850,
+        "Yearly Revenue": 1165992.0,
+        "Product Name": "Mystic Book"
+    },
+    {
+        "Year": 2022,
+        "Yearly Sales": 3727,
+        "Yearly Revenue": 924146.92,
+        "Product Name": "Ivory Shirt"
+    },
+    {
+        "Year": 2023,
+        "Yearly Sales": 2398,
+        "Yearly Revenue": 594608.08,
+        "Product Name": "Ivory Shirt"
+    },
+    {
+        "Year": 2024,
+        "Yearly Sales": 2016,
+        "Yearly Revenue": 499887.36,
+        "Product Name": "Ivory Shirt"
+    },
+    {
+        "Year": 2022,
+        "Yearly Sales": 3253,
+        "Yearly Revenue": 1180839.0,
+        "Product Name": "Azure Sneakers"
+    },
+    {
+        "Year": 2023,
+        "Yearly Sales": 3463,
+        "Yearly Revenue": 1257069.0,
+        "Product Name": "Azure Sneakers"
+    },
+    {
+        "Year": 2024,
+        "Yearly Sales": 3110,
+        "Yearly Revenue": 1128930.0,
+        "Product Name": "Azure Sneakers"
+    },
+    {
+        "Year": 2022,
+        "Yearly Sales": 3250,
+        "Yearly Revenue": 139880.0,
+        "Product Name": "Amber Notebook"
+    },
+    {
+        "Year": 2023,
+        "Yearly Sales": 2799,
+        "Yearly Revenue": 120468.96,
+        "Product Name": "Amber Notebook"
+    },
+    {
+        "Year": 2024,
+        "Yearly Sales": 3131,
+        "Yearly Revenue": 134758.24,
+        "Product Name": "Amber Notebook"
+    },
+    {
+        "Year": 2022,
+        "Yearly Sales": 2036,
+        "Yearly Revenue": 337589.16,
+        "Product Name": "Royal Sneakers"
+    },
+    {
+        "Year": 2023,
+        "Yearly Sales": 1649,
+        "Yearly Revenue": 273420.69,
+        "Product Name": "Royal Sneakers"
+    },
+    {
+        "Year": 2024,
+        "Yearly Sales": 2911,
+        "Yearly Revenue": 482672.91,
+        "Product Name": "Royal Sneakers"
+    },
+    {
+        "Year": 2022,
+        "Yearly Sales": 3203,
+        "Yearly Revenue": 1420754.71,
+        "Product Name": "Echo Sneakers"
+    },
+    {
+        "Year": 2023,
+        "Yearly Sales": 2705,
+        "Yearly Revenue": 1199856.85,
+        "Product Name": "Echo Sneakers"
+    },
+    {
+        "Year": 2024,
+        "Yearly Sales": 4146,
+        "Yearly Revenue": 1839041.22,
+        "Product Name": "Echo Sneakers"
+    },
+    {
+        "Year": 2022,
+        "Yearly Sales": 3791,
+        "Yearly Revenue": 1245874.24,
+        "Product Name": "Titan Chair"
+    },
+    {
+        "Year": 2023,
+        "Yearly Sales": 2361,
+        "Yearly Revenue": 775919.04,
+        "Product Name": "Titan Chair"
+    },
+    {
+        "Year": 2024,
+        "Yearly Sales": 2772,
+        "Yearly Revenue": 910990.08,
+        "Product Name": "Titan Chair"
+    },
+    {
+        "Year": 2022,
+        "Yearly Sales": 2805,
+        "Yearly Revenue": 23870.55,
+        "Product Name": "Cobalt Table"
+    },
+    {
+        "Year": 2023,
+        "Yearly Sales": 2565,
+        "Yearly Revenue": 21828.15,
+        "Product Name": "Cobalt Table"
+    },
+    {
+        "Year": 2024,
+        "Yearly Sales": 3567,
+        "Yearly Revenue": 30355.17,
+        "Product Name": "Cobalt Table"
+    },
+    {
+        "Year": 2022,
+        "Yearly Sales": 3876,
+        "Yearly Revenue": 204769.08,
+        "Product Name": "Echo Console"
+    },
+    {
+        "Year": 2023,
+        "Yearly Sales": 3304,
+        "Yearly Revenue": 174550.32,
+        "Product Name": "Echo Console"
+    },
+    {
+        "Year": 2024,
+        "Yearly Sales": 3461,
+        "Yearly Revenue": 182844.63,
+        "Product Name": "Echo Console"
+    },
+    {
+        "Year": 2022,
+        "Yearly Sales": 2666,
+        "Yearly Revenue": 580361.54,
+        "Product Name": "Shadow Bag"
+    },
+    {
+        "Year": 2023,
+        "Yearly Sales": 2838,
+        "Yearly Revenue": 617804.22,
+        "Product Name": "Shadow Bag"
+    },
+    {
+        "Year": 2024,
+        "Yearly Sales": 3258,
+        "Yearly Revenue": 709234.02,
+        "Product Name": "Shadow Bag"
+    }
+]
