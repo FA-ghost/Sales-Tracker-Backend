@@ -1456,5 +1456,311 @@
         "Yearly Sales": 3258,
         "Yearly Revenue": 709234.02,
         "Product Name": "Shadow Bag"
+    },
+    {
+        "Product Name": "Mystic Headset",
+        "Year": 2022,
+        "Yearly Sales": 3338,
+        "Yearly Revenue": 1001400.0
+    },
+    {
+        "Product Name": "Mystic Headset",
+        "Year": 2023,
+        "Yearly Sales": 3555,
+        "Yearly Revenue": 1066500.0
+    },
+    {
+        "Product Name": "Mystic Headset",
+        "Year": 2024,
+        "Yearly Sales": 3769,
+        "Yearly Revenue": 1130700.0
+    },
+    {
+        "Product Name": "Mystic Sneakers",
+        "Year": 2022,
+        "Yearly Sales": 2889,
+        "Yearly Revenue": 1300050.0
+    },
+    {
+        "Product Name": "Mystic Sneakers",
+        "Year": 2023,
+        "Yearly Sales": 3051,
+        "Yearly Revenue": 1372950.0
+    },
+    {
+        "Product Name": "Mystic Sneakers",
+        "Year": 2024,
+        "Yearly Sales": 3058,
+        "Yearly Revenue": 1376100.0
+    },
+    {
+        "Product Name": "Azure Console",
+        "Year": 2022,
+        "Yearly Sales": 3071,
+        "Yearly Revenue": 1842600.0
+    },
+    {
+        "Product Name": "Azure Console",
+        "Year": 2023,
+        "Yearly Sales": 3287,
+        "Yearly Revenue": 1972200.0
+    },
+    {
+        "Product Name": "Azure Console",
+        "Year": 2024,
+        "Yearly Sales": 3240,
+        "Yearly Revenue": 1944000.0
+    },
+    {
+        "Product Name": "Golden Headset",
+        "Year": 2022,
+        "Yearly Sales": 3437,
+        "Yearly Revenue": 1031100.0
+    },
+    {
+        "Product Name": "Golden Headset",
+        "Year": 2023,
+        "Yearly Sales": 3338,
+        "Yearly Revenue": 1001400.0
+    },
+    {
+        "Product Name": "Golden Headset",
+        "Year": 2024,
+        "Yearly Sales": 3478,
+        "Yearly Revenue": 1043400.0
+    },
+    {
+        "Product Name": "Aqua Sneakers",
+        "Year": 2022,
+        "Yearly Sales": 2919,
+        "Yearly Revenue": 1313550.0
+    },
+    {
+        "Product Name": "Aqua Sneakers",
+        "Year": 2023,
+        "Yearly Sales": 3094,
+        "Yearly Revenue": 1392300.0
+    },
+    {
+        "Product Name": "Aqua Sneakers",
+        "Year": 2024,
+        "Yearly Sales": 3478,
+        "Yearly Revenue": 1565100.0
+    },
+    {
+        "Product Name": "Solar Cream",
+        "Year": 2022,
+        "Yearly Sales": 3157,
+        "Yearly Revenue": 631400.0
+    },
+    {
+        "Product Name": "Solar Cream",
+        "Year": 2023,
+        "Yearly Sales": 3332,
+        "Yearly Revenue": 666400.0
+    },
+    {
+        "Product Name": "Solar Cream",
+        "Year": 2024,
+        "Yearly Sales": 3416,
+        "Yearly Revenue": 683200.0
+    },
+    {
+        "Product Name": "Lunar Glasses",
+        "Year": 2022,
+        "Yearly Sales": 2490,
+        "Yearly Revenue": 747000.0
+    },
+    {
+        "Product Name": "Lunar Glasses",
+        "Year": 2023,
+        "Yearly Sales": 2665,
+        "Yearly Revenue": 799500.0
+    },
+    {
+        "Product Name": "Lunar Glasses",
+        "Year": 2024,
+        "Yearly Sales": 2718,
+        "Yearly Revenue": 815400.0
+    },
+    {
+        "Product Name": "Titan Lamp",
+        "Year": 2022,
+        "Yearly Sales": 2695,
+        "Yearly Revenue": 539000.0
+    },
+    {
+        "Product Name": "Titan Lamp",
+        "Year": 2023,
+        "Yearly Sales": 2911,
+        "Yearly Revenue": 582200.0
+    },
+    {
+        "Product Name": "Titan Lamp",
+        "Year": 2024,
+        "Yearly Sales": 2864,
+        "Yearly Revenue": 572800.0
+    },
+    {
+        "Product Name": "Echo Glasses",
+        "Year": 2022,
+        "Yearly Sales": 2622,
+        "Yearly Revenue": 786600.0
+    },
+    {
+        "Product Name": "Echo Glasses",
+        "Year": 2023,
+        "Yearly Sales": 2706,
+        "Yearly Revenue": 811800.0
+    },
+    {
+        "Product Name": "Echo Glasses",
+        "Year": 2024,
+        "Yearly Sales": 2821,
+        "Yearly Revenue": 846300.0
+    },
+    {
+        "Product Name": "Lunar Console",
+        "Year": 2022,
+        "Yearly Sales": 3360,
+        "Yearly Revenue": 2016000.0
+    },
+    {
+        "Product Name": "Lunar Console",
+        "Year": 2023,
+        "Yearly Sales": 3484,
+        "Yearly Revenue": 2090400.0
+    },
+    {
+        "Product Name": "Lunar Console",
+        "Year": 2024,
+        "Yearly Sales": 3659,
+        "Yearly Revenue": 2195400.0
+    },
+    {
+        "Product Name": "Ivory Ball",
+        "Year": 2022,
+        "Yearly Sales": 3295,
+        "Yearly Revenue": 659000.0
+    },
+    {
+        "Product Name": "Ivory Ball",
+        "Year": 2023,
+        "Yearly Sales": 3283,
+        "Yearly Revenue": 656600.0
+    },
+    {
+        "Product Name": "Ivory Ball",
+        "Year": 2024,
+        "Yearly Sales": 3554,
+        "Yearly Revenue": 710800.0
+    },
+    {
+        "Product Name": "Sapphire Shirt",
+        "Year": 2022,
+        "Yearly Sales": 2833,
+        "Yearly Revenue": 1274850.0
+    },
+    {
+        "Product Name": "Sapphire Shirt",
+        "Year": 2023,
+        "Yearly Sales": 3173,
+        "Yearly Revenue": 1427850.0
+    },
+    {
+        "Product Name": "Sapphire Shirt",
+        "Year": 2024,
+        "Yearly Sales": 3174,
+        "Yearly Revenue": 1428300.0
+    },
+    {
+        "Product Name": "Sapphire Lamp",
+        "Year": 2022,
+        "Yearly Sales": 3102,
+        "Yearly Revenue": 620400.0
+    },
+    {
+        "Product Name": "Sapphire Lamp",
+        "Year": 2023,
+        "Yearly Sales": 3290,
+        "Yearly Revenue": 658000.0
+    },
+    {
+        "Product Name": "Sapphire Lamp",
+        "Year": 2024,
+        "Yearly Sales": 3233,
+        "Yearly Revenue": 646600.0
+    },
+    {
+        "Product Name": "Cobalt Laptop",
+        "Year": 2022,
+        "Yearly Sales": 2997,
+        "Yearly Revenue": 3596400.0
+    },
+    {
+        "Product Name": "Cobalt Laptop",
+        "Year": 2023,
+        "Yearly Sales": 3180,
+        "Yearly Revenue": 3816000.0
+    },
+    {
+        "Product Name": "Cobalt Laptop",
+        "Year": 2024,
+        "Yearly Sales": 3256,
+        "Yearly Revenue": 3907200.0
+    },
+    {
+        "Product Name": "Velvet Drone",
+        "Year": 2022,
+        "Yearly Sales": 2591,
+        "Yearly Revenue": 3109200.0
+    },
+    {
+        "Product Name": "Velvet Drone",
+        "Year": 2023,
+        "Yearly Sales": 2938,
+        "Yearly Revenue": 3525600.0
+    },
+    {
+        "Product Name": "Velvet Drone",
+        "Year": 2024,
+        "Yearly Sales": 3113,
+        "Yearly Revenue": 3735600.0
+    },
+    {
+        "Product Name": "Velvet Bottle",
+        "Year": 2022,
+        "Yearly Sales": 2978,
+        "Yearly Revenue": 595600.0
+    },
+    {
+        "Product Name": "Velvet Bottle",
+        "Year": 2023,
+        "Yearly Sales": 3025,
+        "Yearly Revenue": 605000.0
+    },
+    {
+        "Product Name": "Velvet Bottle",
+        "Year": 2024,
+        "Yearly Sales": 3213,
+        "Yearly Revenue": 642600.0
+    },
+    {
+        "Product Name": "Sapphire Laptop",
+        "Year": 2022,
+        "Yearly Sales": 3257,
+        "Yearly Revenue": 3908400.0
+    },
+    {
+        "Product Name": "Sapphire Laptop",
+        "Year": 2023,
+        "Yearly Sales": 3473,
+        "Yearly Revenue": 4167600.0
+    },
+    {
+        "Product Name": "Sapphire Laptop",
+        "Year": 2024,
+        "Yearly Sales": 3598,
+        "Yearly Revenue": 4317600.0
     }
 ]

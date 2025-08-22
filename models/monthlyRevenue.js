@@ -38,4 +38,19 @@ const runningLow = async () =>{
     }
 }
 
-export {currentRevenue, currentSale, runningLow};
+const revenueTrend = async (month, year) =>{
+    try{
+        const revenue = await db.query("select revenue, monthlySales from monthlySales where month = $1 and year = $2", [month, year])
+        return {
+                month: month,
+                rev: revenue.rows.map(rev => +rev.revenue ),
+                monthlySal: revenue.rows.map(sale => +sale.monthlysales),
+            }
+
+    } catch (error){
+        return error.message
+    }
+}
+
+
+export {currentRevenue, currentSale, runningLow, revenueTrend};
