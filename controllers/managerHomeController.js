@@ -1,4 +1,4 @@
-import { currentRevenue, currentSale, runningLow, revenueTrend } from "../models/monthlyRevenue.js"
+import { currentRevenue, currentSale, runningLow, revenueTrend, yearlyRevenue } from "../models/monthlyRevenue.js"
 
 const date = new Date()
 let monthNames = ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sept", "Oct", "Nov", "Dec"];
@@ -48,7 +48,7 @@ const managerHome = {
         }
     },
 
-    revenueTrend: async (req, res) =>{
+    revenueOverTime: async (req, res) =>{
         const last6Months = getLast6Months();
         try{
             let data = []
@@ -131,6 +131,39 @@ const managerHome = {
             //above code when connecting to the frontend
             res.status(200).json(data)
 
+        } catch (error){
+            res.status(404).json({
+                error: error.message
+            })
+        }
+    },
+
+    revenueGrowthByYear: async (req, res) =>{
+        try{
+            const thisYear = date.getFullYear()
+            let last3Years = Array.from({length: 3}, (_, i) => thisYear - (i))
+            let data = [];
+            for (const year of  last3Years){
+                const {currYear, revenue, sales } = await yearlyRevenue(year)
+                data.push({
+                    currYr: currYear,
+                    rev: +revenue.reduce((sum, rev) => sum + +rev, 0).toFixed(2),
+                    sal: +sales.reduce((sum, sal) => sum + +sal, 0),
+                })
+            }
+            // const dataToReturn = {
+            //     label: data.map(yr => yr.currYr),
+            //     sales: {
+            //         label: 'Sales',
+            //         data: data.map(sale => sale.sal)
+            //     },
+            //     revenue:{
+            //         label: 'Revenue',
+            //         data: data.map(rev => rev.rev)
+            //     }
+            // }
+            //above code when connecting to the frontend
+            res.status(200).json(data)
         } catch (error){
             res.status(404).json({
                 error: error.message

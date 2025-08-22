@@ -52,5 +52,14 @@ const revenueTrend = async (month, year) =>{
     }
 }
 
+const yearlyRevenue = async (year) =>{
+    const revenue = await db.query("select revenue, yearlySales from yearlysales where year =$1", [year])
+    return {
+        currYear: year,
+        revenue: revenue.rows.map((rev) => +rev.revenue),
+        sales: revenue.rows.map((sal) => +sal.yearlysales),
+    }
+}
 
-export {currentRevenue, currentSale, runningLow, revenueTrend};
+
+export {currentRevenue, currentSale, runningLow, revenueTrend, yearlyRevenue};

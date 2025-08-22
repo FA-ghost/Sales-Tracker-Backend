@@ -4,7 +4,8 @@ import managerHome from "../controllers/managerHomeController.js";
 const route = Router();
 
 route.get("/recentUpdates", managerHome.recentUpdates)
-route.get("/revenueTrend", managerHome.revenueTrend)
+route.get("/revenueOverTime", managerHome.revenueOverTime)
 route.get("/revenueGrowth", managerHome.growthTrend)
+route.get("/revenueGrowthByYear", managerHome.revenueGrowthByYear)
 
 export  default route
