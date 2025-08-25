@@ -17,7 +17,7 @@ app.use(express.json())
 
 app.use(morgan("dev"));
 
-app.use("/api/vi/mangerHome", managerHomeRoute)
+app.use("/api/v1/managerHome", managerHomeRoute)
 
 app.listen(PORT, () =>{
     console.log("App running on port:" + PORT)
