@@ -13,7 +13,7 @@ const managerInventory = {
                 const { data }  = await categoryProducts(category.id, lastMonth, date.getFullYear())
                 const  { revenue, sale }   = await categoryLastMonthRevenueAndSales(category.id, lastMonth, date.getFullYear())
                 categoryData.push({
-                    categotyId: category.id,
+                    categoryId: category.id,
                     categoryName: category.categoryname,
                     productCount: data[0].count,
                     categoryTotalSalesLastMonth: sale.reduce((sum, sale) => sum + sale, 0),
@@ -21,7 +21,6 @@ const managerInventory = {
                 })
             }
             const topCategoriesData = categoryData.sort((old, newRev) => newRev.categoryTotalRevenueLastMonth - old.categoryTotalRevenueLastMonth).splice(0, 5)
-            console.log(topCategoriesData.length)
             res.status(200).json(topCategoriesData)
         } catch (error){
             res.status(404).json({error: error.message})
@@ -36,7 +35,7 @@ const managerInventory = {
                 const { data }  = await categoryProducts(category.id, lastMonth, date.getFullYear())
                 const  { revenue, sale }   = await categoryLastMonthRevenueAndSales(category.id, lastMonth, date.getFullYear())
                 categoryData.push({
-                    categotyId: category.id,
+                    categoryId: category.id,
                     categoryName: category.categoryname,
                     productCount: data[0].count,
                     categoryTotalSalesLastMonth: sale.reduce((sum, sale) => sum + sale, 0),
