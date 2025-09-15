@@ -102,7 +102,6 @@ const managerInventory = {
             let search = req.query.search
 
             const { categories } = await searchCategories(search)
-            console.log(categories)
             if (categories.length === 0){
                 res.status(404).json({message: "Category does not exist"})
             }
