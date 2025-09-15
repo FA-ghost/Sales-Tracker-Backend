@@ -59,4 +59,17 @@ const deleteCategories = async (categoryId) =>{
         return error.message
     }
 }
-export { selectCategories, categoryProducts, categoryLastMonthRevenueAndSales, addNewCategory, updateCategories, deleteCategories }
+
+const searchCategories = async (search) =>{
+    try{
+        const categories = await db.query("select * from categories where categoryName ILIKE '%' || $1 || '%'", [search]);
+        return {
+            categories: categories.rows
+        }
+    } catch (error){
+        return error.message;
+    }
+}
+
+
+export { selectCategories, categoryProducts, categoryLastMonthRevenueAndSales, addNewCategory, updateCategories, deleteCategories, searchCategories }

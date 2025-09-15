@@ -1,4 +1,4 @@
-import { addNewCategory, categoryLastMonthRevenueAndSales, categoryProducts, selectCategories, updateCategories, deleteCategories } from "../models/inventory.js"
+import { addNewCategory, categoryLastMonthRevenueAndSales, categoryProducts, selectCategories, updateCategories, deleteCategories, searchCategories } from "../models/inventory.js"
 import { randomUUID } from "crypto"
 
 const date = new Date()
@@ -91,6 +91,35 @@ const managerInventory = {
             await deleteCategories(categoryId)
             res.status(200).json({message: "successful"});
 
+        } catch (error){
+            res.status(404).json({error: error.message})
+        }
+    },
+
+    searchForCategory: async (req, res) =>{
+        try{
+            console.log(req.query.search)
+            let search = req.query.search
+
+            const { categories } = await searchCategories(search)
+            console.log(categories)
+            if (categories.length === 0){
+                res.status(404).json({message: "Category does not exist"})
+            }
+
+            const categoryData = []
+            for (let category of categories){
+                const { data }  = await categoryProducts(category.id, lastMonth, date.getFullYear())
+                const  { revenue, sale }   = await categoryLastMonthRevenueAndSales(category.id, lastMonth, date.getFullYear())
+                categoryData.push({
+                    categoryId: category.id,
+                    categoryName: category.categoryname,
+                    productCount: data[0].count,
+                    categoryTotalSalesLastMonth: sale.reduce((sum, sale) => sum + sale, 0),
+                    categoryTotalRevenueLastMonth: +((revenue.reduce((sum, rev) => sum + +(rev), 0)).toFixed(2))
+                })
+            }
+            res.status(200).json(categoryData)
         } catch (error){
             res.status(404).json({error: error.message})
         }
