@@ -1,4 +1,3 @@
-import { ok } from "assert";
 import db from "../db/db.js";
 
 
@@ -12,6 +11,30 @@ const selectCategories = async () =>{
         return error.message;
     }
 }
+
+
+const selectCategoriesById = async (categoryId) =>{
+    try{
+        const categories = await db.query("select * from categories where id = $1", [categoryId]);
+        return {
+            categories: categories.rows
+        }
+    } catch (error){
+        return error.message;
+    }
+}
+
+const selectCategoriesByName = async (categoryName) =>{
+    try{
+        const categories = await db.query("select * from categories where categoryName = $1", [categoryName]);
+        return {
+            categoryNames: categories.rows
+        }
+    } catch (error){
+        return error.message;
+    }
+}
+
 
 const categoryProducts = async (categoryId) =>{
     try{
@@ -72,4 +95,4 @@ const searchCategories = async (search) =>{
 }
 
 
-export { selectCategories, categoryProducts, categoryLastMonthRevenueAndSales, addNewCategory, updateCategories, deleteCategories, searchCategories }
+export { selectCategories, categoryProducts, categoryLastMonthRevenueAndSales, addNewCategory, updateCategories, deleteCategories, searchCategories, selectCategoriesById, selectCategoriesByName }

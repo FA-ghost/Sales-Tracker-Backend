@@ -1,10 +1,11 @@
-import { addNewCategory, categoryLastMonthRevenueAndSales, categoryProducts, selectCategories, updateCategories, deleteCategories, searchCategories } from "../models/inventory.js"
+import { addNewCategory, categoryLastMonthRevenueAndSales, categoryProducts, selectCategories, updateCategories, deleteCategories, searchCategories, selectCategoriesById, selectCategoriesByName } from "../models/inventory.js"
 import { randomUUID } from "crypto"
+import { updateProductCategoryId } from "../models/products.js"
 
 const date = new Date()
 let lastMonth = date.getMonth() - 0
 
-const managerInventory = {
+const managerInventoryCategory = {
     topCategories: async (req, res) => {
         try{
             const {categories} = await selectCategories()
@@ -66,8 +67,10 @@ const managerInventory = {
         try{
             let categoryId = req.params.id
             let { categoryName } = req.body
-            const { categories } = await selectCategories() 
-            if (!categories.find(category => category.id === categoryId)){
+            const { categories } = await selectCategories()
+            if (categories.find(category => category.categoryname === categoryName)){
+                return res.status(409).json({message: `Cannot delete '${categoryName}' due to it being for edgecase`});
+            }else if (!categories.find(category => category.id === categoryId)){
                 return res.status(404).json({message: "Category does not exist"});
             } else if (categories.find(category => category.categoryname === categoryName)){
                 return res.status(409).json({message: "Duplicate Entry"})
@@ -83,10 +86,22 @@ const managerInventory = {
     deleteCategory: async (req, res) =>{
         try{
             let categoryId = req.params.id
-            const { categories } = await selectCategories() 
-            if (!categories.find(category => category.id === categoryId)){
+            const categoryName = "No Category"
+            const { categories } = await selectCategories()
+
+            const categoryToDelete = categories.find(category => category.id === categoryId);
+            
+            if (!categoryToDelete) {
                 return res.status(404).json({message: "Category does not exist"});
             }
+
+            if (categoryToDelete.categoryname === categoryName) {
+                return res.status(409).json({message: `Cannot delete '${categoryName}' due to it being for edgecase`});
+            }
+
+            //get no categoryID
+            const { categoryNames } = await selectCategoriesByName(categoryName)
+            await updateProductCategoryId(categoryNames[0].id, categoryId)
 
             await deleteCategories(categoryId)
             res.status(200).json({message: "successful"});
@@ -125,4 +140,4 @@ const managerInventory = {
     }
 }
 
-export default managerInventory;
+export default managerInventoryCategory;
